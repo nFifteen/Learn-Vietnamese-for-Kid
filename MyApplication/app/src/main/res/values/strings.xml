@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Học cùng bé</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="about_us1">Chúng tôi cung cấp những khóa học vui nhộn giúp bé có được căn bản trước khi vào lớp 1, nắm vững và củng cố kiến thức cho các bé bị mất gốc.</string>
+    <string name="about_us2">Các khóa học hoàn toàn miễn phí và bổ ích, các bé sẽ không cảm thấy bị nhàm chán khi sử dụng.</string>
+    <string name="tv_feedback">Cảm ơn bạn đã ghé thăm. Mọi phản hồi của bạn đều được ghi nhận và là động lực giúp chúng tôi ngày càng cải thiện các tính năng cũng như chất lượng của sản phẩm.</string>
+    <string name="danh_gia_tai_day">Đánh giá chúng tôi: </string>
+    <string name="about_link"><a href='https://bit.ly/feedback_nhom19'>Đánh giá chúng tôi tại đây</a></string>
+    <string name="about_email"><a href='mailto:20520207@gm.uit.edu.vn'>Gửi email tại đây</a></string>
+    <string name="tip1">1. Làm quen với bảng chữ cái</string>
+    <string name="tip2">2. Làm thẻ từ đơn giản tại nhà</string>
+    <string name="tip3">3. Thu hút con bạn trong một môi trường học tập phong phú</string>
+    <string name="tip4">4. Chơi trò chơi đố chữ ở nhà hoặc bất kỳ nơi đâu khi bé vui vẻ</string>
+    <string name="tip5">5. Tận dụng sức mạnh của công nghệ để thu hút sự chú ý của bé</string>
+    <string name="link_tapdoc"><a href='https://www.youtube.com/watch?v=2PFvFLwXlM8'>Xem các bài giảng giúp bé luyện đọc</a></string>
+    <string name="title_activity_total_lesson_dao_duc">TotalLessonDaoDucActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="dieu_bac_ho">
+        1. 5 điều Bác Hồ dạy\n
+            Yêu tổ quốc, yêu đồng bào\n
+
+            Học tập tốt, lao động tốt\n
+
+            Đoàn kết tốt, kỷ luật tốt\n
+
+            Giữ gìn vệ sinh thật tốt\n
+
+            Khiêm tốn, thật thà, dũng cảm\n
+
+            - Đây được xem là 5 điều Bác Hồ dạy được in trong cuốn sổ giải thưởng Bác Hồ. Cuốn sổ dành riêng thưởng cho giáo viên, học sinh có thành tích xuất sắc trong năm học 1964-1965. Điều này có sự khác so với bản gốc do chính Bác Hồ viết ở chỗ đó là có thêm phẩm chất khiêm tốn.\n
+
+            - Để giải thích cho sự khác nhau này, năm 1965 trở đi, đế quốc Mỹ mở rộng chiến tranh, ném bom tàn phá miền Bắc, công dân Việt Nam ai ai cũng nghe theo tiếng gọi của Bác Hồ mỗi người làm việc bằng hai để đền đáp cho đồng bào miền Nam ruột thịt nên ngày càng có nhiều tấm gương người tốt việc tốt. Những tấm gương này không giới hạn đối tượng, lứa tuổi. Ở miền Bắc nhiều thiếu nhi dũng cảm cứu người, cứu hàng hóa và ở miền Nam cũng xuất hiện nhiều thiếu nhi dũng cảm diệt quân Mỹ.\n
+
+            - Chính vì điều này, Bác không muốn thiếu nhi trở nên tự kiêu mà các em phải khiêm tốn. Bởi vì có khiêm tốn thì các em mới có thể tiếp tục cố gắng, phấn đấu nhiều hơn nữa và tiến bộ nhiều hơn. Và như vậy 5 điều bác hồ dạy đã trở nên phổ biến rộng khắp trường học tại Việt Nam và khiến các em học sinh hăng hái thi đua đạt thành tích tốt. Chính bởi những đóng góp của các em đã góp phần vào sự nghiệp đấu tranh giải phóng đất nước và xây dựng tổ quốc.\n
+
+            2. 5 điều Bác Hồ dạy được viết vào năm nào?\n
+            - 5 điều Bác Hồ dạy được viết trong dịp kỷ niệm 20 năm ngày thành lập đội Thiếu niên tiền phong ngày 15/ 5/1941 và ngày 15/5/1961. Bác đã gửi thư chúc mừng và ân cần động viên, căn dặn các cháu thiếu niên nhi đồng. 5 điều đó đến nay đã trở thành mục tiêu phấn đấu của toàn thể học sinh, thiếu niên nhi đồng Việt Nam trên khắp đất nước.\n
+
+            3. Ý nghĩa 5 điều Bác Hồ dạy thiếu niên, nhi đồng\n
+            - Những điều Bác Hồ dạy được các em thiếu niên, nhi đồng ghi nhớ và thuộc lòng. Không chỉ các em nhỏ mà ngay cả những người lớn người đã đi làm vẫn luôn luôn nhớ. Bởi những lời Bác dạy rất ngắn gọn và dễ nhớ. Tuy nhiên, điều đó không đồng nghĩa với việc ai ai cũng hiểu được nội dung ý nghĩa của những lời dạy này.
+            \n
+            - Điều 1: Yêu Tổ quốc, yêu đồng bào.\n
+
+            Yêu Tổ quốc có nghĩa là có những hiểu biết cơ bản về truyền thống tốt đẹp của đất nước, về lịch sử của nước nhà. Về cả quá trình dựng nước và giữ nước của mỗi địa phương, dân tộc và có thể phát huy được những truyền thống tốt đẹp, những giá trị văn hóa bản sắc dân tộc đó. Yêu đồng bào được thể hiện qua đời sống hằng ngày như cách giao tiếp, cách cư xử với những người xung quanh như là gia đình, bạn bè, thầy cô với tinh thần tương thân tương ái giúp đỡ những hoàn cảnh khó khăn khác trong xã hội.
+\n
+            - Điều 2: Học tập tốt, lao động tốt.
+        \n
+            Học tập tốt được thể hiện qua việc xác định động cơ, thái độ học tập. Các em học sinh cần phải chịu khó, chăm chỉ tìm tòi các môn học để có khả năng học tốt tất cả các môn. Thái độ học tập ở đây không chỉ gói gọn ở việc học trong sách trong vở trong những kiến thức mà thầy cô dạy mà còn phải được tìm hiểu qua đời sống thực tế, cuộc sống hằng ngày cũng như những trải nghiệm của bản thân. Lao động tốt thể hiện qua việc biết quý trọng thành quả lao động của bản thân và những người khác. Biết tự giác thực hiện các hành vi lao động vừa sức tại nhà trường cũng như tại gia đình như giúp ba mẹ trong những công việc dọn dẹp nha hoặc là trực nhật dọn dẹp vệ sinh trường lớp.
+\n
+            - Điều 3: Đoàn kết tốt, kỷ luật tốt.
+\n
+            Đoàn kết tốt thể hiện trong việc giữ gìn mối quan hệ giữa bạn bè trong trường lớp, với anh chị em trong gia đình cũng như trong cộng đồng giúp đỡ mọi người trong đời sống, trong học tập để cùng nhau tiến bộ. Kỷ luật tốt là việc thực hiện nghiêm chỉnh các nội qui ở nơi công cộng ở lớp học ở trường học. Chấp hành tốt nội quy, quy định nhà trường. Tuân thủ theo những quy định của pháp luật mà nhà nước ban hành. Là người sống có nề nếp, kỷ luật chắc chắn sẽ có được thành công.
+\n
+            - Điều 4: Giữ gìn vệ sinh thật tốt.
+\n
+            Giữ gìn vệ sinh bản thân sạch sẽ, ăn mặc gọn gàng cũng như giữ vệ sinh sạch sẽ tại nhà, tại trường lớp và nơi công cộng. Các em có ý thức tự giữ gìn vệ sinh bản thân cũng như giữ vệ sinh môi trường sống xung quanh thật sạch đẹp.
+\n
+            - Điều 5: Khiêm tốn, thật thà, dũng cảm.
+\n
+            Khiêm tốn là không tự kiêu, lễ phép, tôn trọng người lớn. Thật thà là phải biết trung thực, không gian dối trong học tập, trong cuộc sống. Học sinh không nói dối, trung thực trong kiểm tra, trung thực trong đời sống hằng ngày. Dũng cảm là phải biết nhìn nhận những khuyết điểm, những thiếu sót của bản thân. Tự nhìn nhận được những khuyết điểm của bản thân mới có thể giúp các em nhanh cải thiện, phát huy tốt khả năng nâng cao khả năng của mình.
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
